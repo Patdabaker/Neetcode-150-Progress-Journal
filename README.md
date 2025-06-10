@@ -9,17 +9,22 @@ These are the 3 rules I have so far, and may update them in the future if need b
 
 ---
 
-## ✅ Solved Problems
+## ✅ Solved/WIP Problems
 
-| #  | Category         | Problem   | Solution Link               | Notes                 |
-|----|------------------|-----------|-----------------------------|------------------------|
-| 1 | Arrays And Hashing | Contains Duplicate | [Contains_Duplicate.py](Arrays_and_Hashing/Contains_Duplicate.py) |
+| #  | Category         | Problem   | Problem Link                | Optimal TSC? | Solved? |
+|----|------------------|-----------|-----------------------------|--------------|-----|
+| 1 | Arrays And Hashing | 1 Contains Duplicate | [1_Contains_Duplicate.py](Arrays_and_Hashing/1_Contains_Duplicate.py) | Yes          | Yes |
+| 2 | Arrays And Hashing | 2 Valid Anagram | [2_Valid_Anagram.py](Arrays_and_Hashing/2_Valid_Anagram.py) | Yes          | Yes |
+| 3 | Arrays And Hashing | 3 Two Sum | [3_Two_Sum.py](Arrays_and_Hashing/3_Two_Sum.py) | Yes          | Yes |
+| 4 | Arrays And Hashing | 4 Group Anagrams | [4_Group_Anagrams.py](Arrays_and_Hashing/4_Group_Anagrams.py) | Yes          | Yes |
+| 5 | Arrays And Hashing | 5 Top K Frequent Elements | [5_Top_K_Frequent_Elements.py](Arrays_and_Hashing/5_Top_K_Frequent_Elements.py) | No           | Yes |
+| 6 | Arrays And Hashing | 6 Encode And Decode Strings | [6_Encode_and_Decode_Strings.py](Arrays_and_Hashing/6_Encode_and_Decode_Strings.py) | No           | No |
 
 ---
 
 ## 🗓 Daily Journal
 
-Check out [`journal/`](journal/) for daily progress logs.
+Check out [`Journal/`](Journal/) for daily progress logs.
 
 ## 🧰 Tools Used
 

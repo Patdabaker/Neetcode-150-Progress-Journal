@@ -2,6 +2,7 @@
 Problem: Contains Duplicate
 Link: https://neetcode.io/problems/duplicate-integer?list=neetcode150
 Category: Arrays & Hashing
+Created on: 6/9/2025
 
 Approach:
 - Use a dictionary to store frequency values
