@@ -1,0 +1,34 @@
+{
+  "Arrays_and_Hashing/1_Contains_Duplicate.py": {
+    "Optimal_TSC?": true,
+    "Solved?": true
+  },
+  "Arrays_and_Hashing/2_Valid_Anagram.py": {
+   "Optimal_TSC?": true,
+   "Solved?": true
+  },
+  "Arrays_and_Hashing/3_Two_Sum.py": {
+   "Optimal_TSC?": true,
+   "Solved?": true
+  },
+  "Arrays_and_Hashing/4_Group_Anagrams.py": {
+   "Optimal_TSC?": true,
+   "Solved?": true
+  },
+  "Arrays_and_Hashing/5_Top_K_Frequent_Elements.py": {
+   "Optimal_TSC?": false,
+   "Solved?": true
+  },
+  "Arrays_and_Hashing/6_Encode_and_Decode_Strings.py": {
+   "Optimal_TSC?": false,
+   "Solved?": false
+  },
+  "Arrays_and_Hashing/7_Products_of_Array_Except_Self.py": {
+   "Optimal_TSC?": true,
+   "Solved?": true
+  },
+    "Arrays_and_Hashing/8_Valid_Sudoku.py": {
+   "Optimal_TSC?": false,
+   "Solved?": false
+  }
+}
