@@ -27,7 +27,15 @@
    "Optimal_TSC?": true,
    "Solved?": true
   },
-    "Arrays_and_Hashing/8_Valid_Sudoku.py": {
+  "Arrays_and_Hashing/8_Valid_Sudoku.py": {
+   "Optimal_TSC?": true,
+   "Solved?": true
+  },
+  "Arrays_and_Hashing/9_Longest_Consecutive_Sequence.py": {
+   "Optimal_TSC?": false,
+   "Solved?": true
+  },
+  "Two_Pointers/10_Valid_Palindrome.py": {
    "Optimal_TSC?": false,
    "Solved?": false
   }

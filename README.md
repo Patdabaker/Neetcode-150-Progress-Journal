@@ -20,7 +20,9 @@ These are the 3 rules I have so far, and may update them in the future if need b
 | 5 | Arrays And Hashing | 5 Top K Frequent Elements | [5_Top_K_Frequent_Elements.py](Arrays_and_Hashing/5_Top_K_Frequent_Elements.py) | ❌ | ✅ |
 | 6 | Arrays And Hashing | 6 Encode And Decode Strings | [6_Encode_and_Decode_Strings.py](Arrays_and_Hashing/6_Encode_and_Decode_Strings.py) | ❌ | ❌ |
 | 7 | Arrays And Hashing | 7 Products Of Array Except Self | [7_Products_of_Array_Except_Self.py](Arrays_and_Hashing/7_Products_of_Array_Except_Self.py) | ✅ | ✅ |
-| 8 | Arrays And Hashing | 8 Valid Sudoku | [8_Valid_Sudoku.py](Arrays_and_Hashing/8_Valid_Sudoku.py) | ❌ | ❌ |
+| 8 | Arrays And Hashing | 8 Valid Sudoku | [8_Valid_Sudoku.py](Arrays_and_Hashing/8_Valid_Sudoku.py) | ✅ | ✅ |
+| 9 | Arrays And Hashing | 9 Longest Consecutive Sequence | [9_Longest_Consecutive_Sequence.py](Arrays_and_Hashing/9_Longest_Consecutive_Sequence.py) | ❌ | ✅ |
+| 10 | Two Pointers | 10 Valid Palindrome | [10_Valid_Palindrome.py](Two_Pointers/10_Valid_Palindrome.py) | ❌ | ❌ |
 
 ---
 
