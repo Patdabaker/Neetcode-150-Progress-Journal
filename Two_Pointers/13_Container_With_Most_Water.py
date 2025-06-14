@@ -5,7 +5,10 @@ Category: Two Pointers
 Created on: 6/12/2025
 
 Approach:
--
+- Use two pointer approach with pointers on opposite sides
+- Took the max area of the min heights of the pointers and the distance between them
+- Moved the pointer that had a lesser height
+- If equal, moved the pointer whose next point had a greater height
 """
 class Solution:
     def maxArea(self, heights: list[int]) -> int:
@@ -18,15 +21,13 @@ class Solution:
             elif heights[r] < heights[l]:
                 r -= 1
             else:
-                count = 0
-                while heights[l + count] == heights[r - count]:
-                    count += 1
-                    if heights[l + count] > heights[r - count]:
-                        l += 1
-                    elif heights[l + count] < heights[r - count]:
-                        r -= 1
-                    else:
-                        count += 1
+                if heights[l + 1] > heights[r - 1]:
+                    l += 1
+                elif heights[l + 1] < heights[r - 1]:
+                    r -= 1
+                else:
+                    l += 1
+                    r -= 1
         return maxarea
 test = Solution()
-print(test.maxArea([2,2,2]))
+print(test.maxArea([1,7,2,5,4,7,3,6]))

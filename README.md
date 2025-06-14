@@ -25,7 +25,8 @@ These are the 3 rules I have so far, and may update them in the future if need b
 | 10 | Two Pointers | 10 Valid Palindrome | [10_Valid_Palindrome.py](Two_Pointers/10_Valid_Palindrome.py) | ✅ | ✅ |
 | 11 | Two Pointers | 11 Two Integer Sum Ii | [11_Two_Integer_Sum_II.py](Two_Pointers/11_Two_Integer_Sum_II.py) | ✅ | ✅ |
 | 12 | Two Pointers | 12 3Sum | [12_3Sum.py](Two_Pointers/12_3Sum.py) | ❌ | ✅ |
-| 13 | Two Pointers | 13 Container With Most Water | [13_Container_With_Most_Water.py](Two_Pointers/13_Container_With_Most_Water.py) | ❌ | ❌ |
+| 13 | Two Pointers | 13 Container With Most Water | [13_Container_With_Most_Water.py](Two_Pointers/13_Container_With_Most_Water.py) | ✅ | ✅ |
+| 14 | Two Pointers | 14 Trapping Rain Water | [14_Trapping_Rain_Water.py](Two_Pointers/14_Trapping_Rain_Water.py) | ❌ | ✅ |
 
 ---
 
