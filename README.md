@@ -30,6 +30,8 @@ These are the 3 rules I have so far, and may update them in the future if need b
 | 15 | 3 Sliding Window | 15 Best Time To Buy And Sell Stock | [15_Best_Time_to_Buy_and_Sell_Stock.py](3_Sliding_Window/15_Best_Time_to_Buy_and_Sell_Stock.py) | ✅ | ✅ |
 | 16 | 3 Sliding Window | 16 Longest Substring Without Repeating Characters | [16_Longest_Substring_Without_Repeating_Characters.py](3_Sliding_Window/16_Longest_Substring_Without_Repeating_Characters.py) | ✅ | ✅ |
 | 17 | 3 Sliding Window | 17 Longest Repeating Character Replacement | [17_Longest_Repeating_Character_Replacement.py](3_Sliding_Window/17_Longest_Repeating_Character_Replacement.py) | ❌ | ❌ |
+| 18 | 3 Sliding Window | 18 Permutation In String | [18_Permutation_in_String.py](3_Sliding_Window/18_Permutation_in_String.py) | ✅ | ✅ |
+| 19 | 3 Sliding Window | 19 Minimum Window Substring | [19_Minimum_Window_Substring.py](3_Sliding_Window/19_Minimum_Window_Substring.py) | ❌ | ❌ |
 
 ---
 
