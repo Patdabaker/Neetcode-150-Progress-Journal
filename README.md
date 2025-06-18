@@ -34,6 +34,8 @@ These are the 3 rules I have so far, and may update them in the future if need b
 | 19 | 3 Sliding Window | 19 Minimum Window Substring | [19_Minimum_Window_Substring.py](3_Sliding_Window/19_Minimum_Window_Substring.py) | ❌ | ❌ |
 | 20 | 3 Sliding Window | 20 Sliding Window Maximum | [20_Sliding_Window_Maximum.py](3_Sliding_Window/20_Sliding_Window_Maximum.py) | ❌ | ✅ |
 | 21 | 4 Stack | 21 Valid Parentheses | [21_Valid_Parentheses.py](4_Stack/21_Valid_Parentheses.py) | ✅ | ✅ |
+| 22 | 4 Stack | 22 Minimum Stack | [22_Minimum_Stack.py](4_Stack/22_Minimum_Stack.py) | ❌ | ✅ |
+| 23 | 4 Stack | 23 Evaluate Reverse Polish Notation | [23_Evaluate_Reverse_Polish_Notation.py](4_Stack/23_Evaluate_Reverse_Polish_Notation.py) | ❌ | ❌ |
 
 ---
 
