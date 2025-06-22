@@ -38,7 +38,8 @@ These are the 3 rules I have so far, and may update them in the future if need b
 | 23 | 4 Stack | 23 Evaluate Reverse Polish Notation | [23_Evaluate_Reverse_Polish_Notation.py](4_Stack/23_Evaluate_Reverse_Polish_Notation.py) | ✅ | ✅ |
 | 24 | 4 Stack | 24 Generate Parentheses | [24_Generate_Parentheses.py](4_Stack/24_Generate_Parentheses.py) | ❌ | ❌ |
 | 25 | 4 Stack | 25 Daily Temperatures | [25_Daily_Temperatures.py](4_Stack/25_Daily_Temperatures.py) | ✅ | ✅ |
-| 26 | 4 Stack | 26 Car Fleet | [26_Car_Fleet.py](4_Stack/26_Car_Fleet.py) | ❌ | ❌ |
+| 26 | 4 Stack | 26 Car Fleet | [26_Car_Fleet.py](4_Stack/26_Car_Fleet.py) | ✅ | ✅ |
+| 27 | 4 Stack | 27 Largest Rectangle In Histogram | [27_Largest_Rectangle_In_Histogram.py](4_Stack/27_Largest_Rectangle_In_Histogram.py) | ❌ | ❌ |
 
 ---
 
